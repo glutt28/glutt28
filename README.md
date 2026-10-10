@@ -1,8 +1,3 @@
-## Hi there!
-- 🔭 I’m currently studying at Informatics Engineering ITERA
-- 🌱 Currently I am starting to focus on studying the fields of AI or Super Intelligence
-- 💬 Ask me about ... ?
-
 ## About Me:
 I'm an Informatics Engineering student at ITERA (Institut Teknologi Sumatera) with a strong focus on Artificial Intelligence. Currently, my research and development efforts are dedicated to exploring and building AI applications specifically for differential drive robots.
 
